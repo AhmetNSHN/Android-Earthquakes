@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.deprem;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.deprem.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

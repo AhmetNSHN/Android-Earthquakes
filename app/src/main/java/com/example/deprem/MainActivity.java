@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.deprem;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -7,6 +7,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.deprem.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

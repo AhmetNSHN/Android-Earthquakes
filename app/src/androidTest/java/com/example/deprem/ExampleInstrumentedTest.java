@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.deprem;
 
 import android.content.Context;
 
